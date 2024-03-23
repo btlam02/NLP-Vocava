@@ -1,0 +1,11 @@
+anthropic~=0.2.10
+chromadb~=0.3.25
+cohere~=4.7.0
+elevenlabs~=0.2.17
+numpy~=1.24.3
+openai~=0.27.7
+plotly~=5.14.1
+requests~=2.31.0
+streamlit~=1.23.1
+streamlit-chat~=0.0.2.2
+st-annotated-text~=4.0.0
